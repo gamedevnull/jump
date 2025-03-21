@@ -12,10 +12,3 @@ Demo: [https://www.youtube.com/watch?v=o1mG4l48DQY](https://www.youtube.com/watc
 * Animated game objects and background
 * Increasing difficulty
 * Jetpack!!!
-
-
-# Todo
-* Different sizes and colors for platforms
-* Enemies jumping between platforms
-* Sounds and music
-* Executable files
